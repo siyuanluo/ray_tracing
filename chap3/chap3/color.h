@@ -20,4 +20,5 @@ void write_color(ostream &out, color pixel_color){
         << static_cast<int>(255.99 * pixel_color.z()) << '\n';
 }
 
+
 #endif /* color_h */
