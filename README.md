@@ -6,7 +6,7 @@ Normally, you will find that the code is quite familiar with the code in "RayTra
 
 After just "finish" the homework, I'd like to do some optimization in the code, which could help me to understand it better.
 
-It's ok for anyone can download the code to learn and spread.
+It's ok for anyone to download the code to learn and spread.
 
 The Project timeline:
 
