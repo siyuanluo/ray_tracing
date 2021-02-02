@@ -15,7 +15,7 @@ The Project timeline:
 | CHAP1    | Overview                               | 0                | 100%             |
 | CHAP2    | Output an Image                        | 1                | 100%             |
 | CHAP3    | The vec3 Class                         | 3                | 100%             |
-| CHAP4    | Rays, a Simple Camera and Background   |                  |                  |
+| CHAP4    | Rays, a Simple Camera and Background   | 2                | 50%              |
 | CHAP5    | Adding a Sphere                        |                  |                  |
 | CHAP6    | Surfacing Normals and Multiple Objects |                  |                  |
 | CHAP7    | Antialiasing                           |                  |                  |
