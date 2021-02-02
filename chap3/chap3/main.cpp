@@ -17,7 +17,7 @@ int main(int argc, const char * argv[]) {
     const int image_height = 256;
     
     //Render Part
-    cout << "P3\n" << image_width << ' ' << image_height << "'\n256\n'";
+    cout << "P3\n" << image_width << ' ' << image_height << "\n256\n";
     for(int j = image_height - 1; j >= 0; j--){
         cerr << "Remaining: " << j << ' ' << flush;
         for(int i = 0 ; i < image_width; i++){

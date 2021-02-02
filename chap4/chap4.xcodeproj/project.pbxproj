@@ -27,6 +27,7 @@
 		299293D625C96E1F0087EF5D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		299293DE25C96E740087EF5D /* ray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ray.h; sourceTree = "<group>"; };
 		299293DF25C96EA00087EF5D /* vec3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vec3.h; sourceTree = "<group>"; };
+		299293E025C9718D0087EF5D /* color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = color.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				299293D625C96E1F0087EF5D /* main.cpp */,
+				299293E025C9718D0087EF5D /* color.h */,
 				299293DE25C96E740087EF5D /* ray.h */,
 				299293DF25C96EA00087EF5D /* vec3.h */,
 			);
