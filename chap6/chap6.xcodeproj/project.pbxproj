@@ -28,6 +28,8 @@
 		2992940E25CAA6E10087EF5D /* color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = color.h; sourceTree = "<group>"; };
 		2992940F25CAA6EC0087EF5D /* vec3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = vec3.h; sourceTree = "<group>"; };
 		2992941025CAA6FA0087EF5D /* ray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ray.h; sourceTree = "<group>"; };
+		2992941225CACA9C0087EF5D /* hittable.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hittable.h; sourceTree = "<group>"; };
+		2992941325CACB6C0087EF5D /* sphere.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sphere.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,8 @@
 			isa = PBXGroup;
 			children = (
 				2992940625CAA6CF0087EF5D /* main.cpp */,
+				2992941225CACA9C0087EF5D /* hittable.h */,
+				2992941325CACB6C0087EF5D /* sphere.h */,
 				2992940E25CAA6E10087EF5D /* color.h */,
 				2992940F25CAA6EC0087EF5D /* vec3.h */,
 				2992941025CAA6FA0087EF5D /* ray.h */,
