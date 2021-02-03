@@ -17,7 +17,7 @@ The Project timeline:
 | CHAP3    | The vec3 Class                         | 3                | 100%             |
 | CHAP4    | Rays, a Simple Camera and Background   | 3                | 100%             |
 | CHAP5    | Adding a Sphere                        | 2                | 100%             |
-| CHAP6    | Surfacing Normals and Multiple Objects |                  |                  |
+| CHAP6    | Surfacing Normals and Multiple Objects | 5                | 60%              |
 | CHAP7    | Antialiasing                           |                  |                  |
 | CHAP8    | Diffuse Materials                      |                  |                  |
 | CHAP9    | Metal                                  |                  |                  |
