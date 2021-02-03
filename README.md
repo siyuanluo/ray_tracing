@@ -16,7 +16,7 @@ The Project timeline:
 | CHAP2    | Output an Image                        | 1                | 100%             |
 | CHAP3    | The vec3 Class                         | 3                | 100%             |
 | CHAP4    | Rays, a Simple Camera and Background   | 3                | 100%             |
-| CHAP5    | Adding a Sphere                        |                  |                  |
+| CHAP5    | Adding a Sphere                        | 2                | 100%             |
 | CHAP6    | Surfacing Normals and Multiple Objects |                  |                  |
 | CHAP7    | Antialiasing                           |                  |                  |
 | CHAP8    | Diffuse Materials                      |                  |                  |
